@@ -1,1 +1,1 @@
-# functiona_javascript
+# Functional JavaScript
